@@ -29,7 +29,7 @@ AI-native full-stack developer based in Cluj-Napoca, Romania. I build software t
 
 ### What I'm looking for
 
-I'm open to full-stack, backend, or AI engineering roles — especially greenfield projects and teams that take AI-assisted development seriously. Hybrid in Cluj-Napoca or remote.
+I'm open to full-stack, backend, or AI engineering roles. Preferably in Cluj-Napoca or remote.
 
 ### Let's connect
 
