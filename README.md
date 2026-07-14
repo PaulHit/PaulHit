@@ -37,4 +37,3 @@ I'm open to full-stack, backend, or AI engineering roles — especially greenfie
   <a href="https://www.linkedin.com/in/paul-hiticas-497248223/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hiticaspaul@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
-# PaulHit
